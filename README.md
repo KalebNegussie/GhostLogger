@@ -6,8 +6,11 @@ GhostLogger is a lightweight keylogger built in Python using the pynput library.
 📌 Features
 
 ✅ Logs keystrokes in real-time
+
 ✅ Captures active window titles
+
 ✅ Saves logs to a text file (log1.txt)
+
 ✅ Minimal and efficient design
 
 🛠️ Technologies Used
