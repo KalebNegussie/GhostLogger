@@ -1,4 +1,4 @@
-# Keylogger Project
+#  GhostLogger-Keylogger Project
 
 ## Overview
 This is a simple keylogger implemented in Python using the `pynput` library to capture keystrokes and log them to a file. The script also tracks the active window title and logs it whenever the user switches between applications.
@@ -48,36 +48,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or feature additions.
-
-
- 
- 
- 
- 
- 
- GhostLogger- Python Keylogger
- 
-GhostLogger is a lightweight keylogger built in Python using the pynput library. It captures keystrokes and logs the active window title for context, making it useful for ethical monitoring and cybersecurity research.
-
-
-📌 Features
-
-✅ Logs keystrokes in real-time
-
-✅ Captures active window titles
-
-✅ Saves logs to a text file (log1.txt)
-
-✅ Minimal and efficient design
-
-🛠️ Technologies Used
-
-Python (pynput for keystroke capture)
-
-Windows API (pywin32 for active window tracking)
-
-File handling for log storage
-
-⚠️ Disclaimer
-
-This project is for educational and ethical purposes only. Do not use it for malicious intent.
