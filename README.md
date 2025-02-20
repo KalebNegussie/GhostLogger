@@ -19,7 +19,7 @@ pip install pynput pywin32
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/KalebNegussie/keylogger-project.git
+   git clone https://github.com/KalebNegussie/GhostLogger-project.git
    cd keylogger-project
    ```
 2. Install the required dependencies:
