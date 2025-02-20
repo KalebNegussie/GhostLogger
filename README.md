@@ -18,6 +18,7 @@ GhostLogger is a lightweight keylogger built in Python using the pynput library.
 Python (pynput for keystroke capture)
 
 Windows API (pywin32 for active window tracking)
+
 File handling for log storage
 
 ⚠️ Disclaimer
